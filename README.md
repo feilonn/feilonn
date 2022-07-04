@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on backend with nestjs and frontend with angular
-- 🌱 I’m currently learning typescript, nodejs, nestjs and angular
+- 🌱 I’m currently learning typescript, nodejs, nestjs, angular and react
 <div align="center">
   <a href="https://github.com/feilonn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feilonn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
